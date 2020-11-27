@@ -8,7 +8,7 @@ public class Main {
 
         team.getNames();
         c.doIt(team); // Просим команду пройти полосу
-        team.showResults(); // Показываем результаты
+        team.showResults(); // Показываем результаты another comment
 
     }
 }
